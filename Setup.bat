@@ -13,7 +13,7 @@ Echo "Installing pip modules needed for this scirpt!"
 pip3 install humanize
 pip3 install pathlib
 
-python3 %cd%\src\main.py
+python %cd%\main.py
 
 
 :errorNoPip
