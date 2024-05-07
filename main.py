@@ -29,8 +29,6 @@ try:
     def main():
         print(f"The size of the {USERTEMP} folder is: " + get_size(USERTEMP))
         print(f"The size of the {WINTEMP} folde is: " + get_size(WINTEMP))
-        joinedsize = int(USERTEMP) + int(WINTEMP)
-        print(f"MyDoom can give you {joinedsize} more space to use! :D ")
         print("loading cleaner... You can exit when ever you want!")
         time.sleep(3)
         try: 
